@@ -1,0 +1,3 @@
+Shannon Diversity Index: 0.882040372625499
+Simpson Diversity Index: 0.438648223303106
+Species Richness: 2836

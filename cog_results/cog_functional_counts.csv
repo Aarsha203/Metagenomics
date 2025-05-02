@@ -1,0 +1,27 @@
+COG Code,Function Description,Count,Percentage (%)
+A,RNA processing and modification,762,13.1
+B,Chromatin structure and dynamics,205,3.52
+C,Energy production and conversion,447,7.69
+D,"Cell cycle, cell division, chromosome partitioning",436,7.5
+E,Amino acid transport and metabolism,166,2.85
+F,Nucleotide transport and metabolism,235,4.04
+G,Carbohydrate transport and metabolism,217,3.73
+H,Coenzyme transport and metabolism,408,7.02
+I,Lipid transport and metabolism,161,2.77
+J,"Translation, ribosomal structure and biogenesis",20,0.34
+K,Transcription,49,0.84
+L,"Replication, recombination and repair",109,1.87
+M,Cell wall/membrane/envelope biogenesis,318,5.47
+N,Cell motility,249,4.28
+O,"Post-translational mod, protein turnover, chaperones",53,0.91
+P,Inorganic ion transport and metabolism,611,10.51
+Q,Secondary metabolites biosynthesis,11,0.19
+R,General function prediction only,324,5.57
+S,Function unknown,362,6.22
+T,Signal transduction mechanisms,418,7.19
+U,"Intracellular trafficking, secretion, vesicular transport",127,2.18
+V,Defense mechanisms,30,0.52
+W,Extracellular structures,14,0.24
+X,"Mobilome: prophages, transposons",20,0.34
+Y,Nuclear structure,39,0.67
+Z,Cytoskeleton,25,0.43
