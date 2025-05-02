@@ -1,0 +1,8 @@
+Best_Hit_ARO,Drug Class,Resistance Mechanism,Count
+vanT gene in vanG cluster,glycopeptide antibiotic,antibiotic target alteration,10
+vanY gene in vanB cluster,glycopeptide antibiotic,antibiotic target alteration,4
+vanW gene in vanI cluster,glycopeptide antibiotic,antibiotic target alteration,3
+vanY gene in vanA cluster,glycopeptide antibiotic,antibiotic target alteration,2
+rsmA,fluoroquinolone antibiotic; diaminopyrimidine antibiotic; phenicol antibiotic,antibiotic efflux,2
+adeF,fluoroquinolone antibiotic; tetracycline antibiotic,antibiotic efflux,1
+vanW gene in vanG cluster,glycopeptide antibiotic,antibiotic target alteration,1
